@@ -49,6 +49,20 @@ Programming language classification:
     dynamic:
         runtime adaptability and flexibility
 
+6. Dynamic and Scripting languages:
+    Scripting:
+        automate execution of tasks
+    Dynamic:
+        fully built application
+
+7. Source code representation
+    Visual language:
+        like unreal engine
+    Textual:
+        source code as text
+    
+    
+
 
 
 
