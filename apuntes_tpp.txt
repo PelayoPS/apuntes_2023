@@ -61,7 +61,27 @@ Programming language classification:
     Textual:
         source code as text
     
-    
+========================================================================
+
+Programming paradigms
+    definition: 
+        approach to solve programming problems based on abstraction and 
+        concepts used to represent programs
+
+Impertative vs Declarative
+    Impertative:
+        instructions are closer to machine language so higher level
+    Declarative:
+        closer to human level as what should be accomplished is described
+
+Main Paradigms
+    Structural Procedural-based:
+        sometimes referred to as Impertative
+        is Structured + Procedural
+        three control flow structures: sequential, conditional and iterative:
+            jump instructions are avoided
+            improves readability and maintainability
+            control flow structures canbe nested
 
 
 
