@@ -43,7 +43,11 @@ Programming language classification:
     JIT(Just in Time) is a hybrid approach
 
 5. Type checking
-
+    static:
+        earlier type error detection(compile time)
+        better runtime performance
+    dynamic:
+        runtime adaptability and flexibility
 
 
 
