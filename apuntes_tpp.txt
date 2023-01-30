@@ -1,0 +1,50 @@
+programming language:
+    artificial language that a computer can execute
+    make human abstraction closer to machine abstraction
+    close to human = higher level
+language translator:
+    translates source programs into another language
+compiler:
+    translates high-level programs into low-level machine code
+interpreter:
+    executes programs in a specific programming language
+=================================================================
+
+Programming language classification:
+    features for classification:
+        - Abstraction level
+        - Domain
+        - Concurrency support
+        - Implementation(compiled or interpreted)
+        - When type checking is performed (compiled or interpreted)
+        - How the source code is represented
+
+1. Abstraction(high/low)
+    closer to human level = higher
+    closer to computer level = lower
+    assembly and machine code -> low-level
+    C -> medium-level
+    the rest(java python...) -> high-level
+    Domain Specific Languages(DSLs[example: SQL]) -> even higher level
+ 
+2. Domain
+    DSLs -> SQL Logo R ...
+    General-purpose -> java c++ python ...
+    more specific than DSLs -> Model Driven Development(MDD) and Domain Specific Modelling(DSM)
+
+3. Concurrency support
+    creation of programs with processes working in parallel(threads)
+    can be executed:
+        in a single processor
+        in parallel
+4. Implementation
+    compiled or interpreted
+    not mutually exclusive(Java and C# are compiled and "interpreted")
+    JIT(Just in Time) is a hybrid approach
+
+5. Type checking
+
+
+
+
+
