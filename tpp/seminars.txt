@@ -1,0 +1,33 @@
+Angle
+properties:
+- radians: double
+methods:
++ Angle(r: double)
++ Sine(): double
++ Cosine(): double
++ Tangent(): double
+<<properties>> Radians: double
+
+Person
+<<properties>> Name: string
+<<properties>> Surname1: string
+<<properties>> Surname2: string
+<<properties>> Nif: string
+<<properties>> Age: int
+
+
+sort method to compare two unkown objects
+
+Sort(List<Obeject> list) {
+o1.CompareTo(o2)
+}
+
+
+CompareTo for Angle
+CompareTo(Angle angle){
+    if (this.Radians < angle.Radians) return -1;
+    if (this.Radians > angle.Radians) return 1;
+    return 0;
+}
+
+
