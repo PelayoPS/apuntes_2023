@@ -82,7 +82,16 @@ Main Paradigms
             jump instructions are avoided
             improves readability and maintainability
             control flow structures canbe nested
-
+        Procedural paradigm defines procedure or subrutine as main mechanism
+        of reutilization
+        includes the existing structured paradigm
+        includes the concept of variable scope
+        procedure that returns a value is called a function
+        functions can have:
+            side effects
+            higher order functions are not commonly supported
+            closures functions are not commonly supported
+            
 
 
 
